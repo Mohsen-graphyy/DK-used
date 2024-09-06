@@ -2,6 +2,7 @@
   <section>
     <HomeFeatures />
     <HomeTestimonialSection />
+    <HomeFaqSection />
   </section>
 </template>
 
