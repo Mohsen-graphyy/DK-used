@@ -3,6 +3,7 @@
     <HomeFeatures />
     <HomeTestimonialSection />
     <HomeFaqSection />
+    <HomeContactUs />
   </section>
 </template>
 

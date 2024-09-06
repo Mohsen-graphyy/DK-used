@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-200 min-h-screen">
-    <NuxtPage class="dk-container dir bg-white mx-auto" />
+    <NuxtPage class="dk-container dir bg-white mx-auto pb-24" />
     <div class="dk-menu sticky bottom-0 left-0 bg-white w-full z-50 mx-auto">
       salam
     </div>
