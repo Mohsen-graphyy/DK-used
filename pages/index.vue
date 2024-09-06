@@ -7,4 +7,8 @@
   </section>
 </template>
 
-<script setup lang="ts"></script>
+<script setup>
+definePageMeta({
+  name: "home",
+});
+</script>
